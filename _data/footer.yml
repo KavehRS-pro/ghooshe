@@ -1,14 +1,14 @@
 - title: Pages
   links:
-    - name: Home
+    - name: خانه
       link: /
-    - name: About
+    - name: درباره من
       link: /about/
   #  - name: Services
    #   link: /services/
-    - name: Contact
+    - name: تماس
       link: /contact/
-    - name: Blog
+    - name: نوشته‌ها
       link: /blog/
 - title: Social
   links:
