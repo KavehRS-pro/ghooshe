@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: شیما قوشه
   links:
-    - https://github.com/CloudCannon/justice-jekyll-template
+   # - https://github.com/CloudCannon/justice-jekyll-template
 
 # -----
 # Build
