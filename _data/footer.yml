@@ -8,7 +8,7 @@
    #   link: /services/
     - name: تماس
       link: /contact/
-    - name: نوشته‌ها
+    - name: یادداشت‌ها
       link: /blog/
 - title: Social
   links:
