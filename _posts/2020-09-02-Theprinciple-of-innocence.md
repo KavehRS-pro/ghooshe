@@ -1,15 +1,15 @@
 ---
-title: گفت و گو با شیما قوشه، وکیل و فعال حقوق زنان: اصل برائت و خلا قانونی حمایت از آزار دیده ها
-date: 2020-09-02 00:00:00
-categories:
-  - PressConference
+title: "اصل برائت و خلا قانونی حمایت از آزار دیده ها"
+date: 2020-09-02
+categories: PressConference
 author_staff_member: admin
 image: ""
 large_header: false
 ---
 
-این  گفتگو در روز 12 شهریور 1399 در روزنامه شرق منتشر شده است .
-<a href="https://www.magiran.com/article/4086379">روزنامه شرق</a>
+این  گفتگو در روز 12 شهریور 1399 در <a href="https://www.magiran.com/article/4086379">روزنامه شرق</a> منتشر شده است .
+
+
 
 
 
