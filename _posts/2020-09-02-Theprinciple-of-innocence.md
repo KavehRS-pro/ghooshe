@@ -5,6 +5,7 @@ categories:
   - روزنامه شرق
   - گزارش
 author_staff_member: admin
+large_header: false
 ---
 
 این  گفتگو در روز 12 شهریور 1399 در روزنامه شرق منتشر شده است .
