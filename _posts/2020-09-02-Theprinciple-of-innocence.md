@@ -2,7 +2,7 @@
 title: گفت و گو با شیما قوشه، وکیل و فعال حقوق زنان: اصل برائت و خلا قانونی حمایت از آزار دیده ها
 date: 2020-09-02 00:00:00
 categories:
-  - Pressـconference
+  - PressConference
 author_staff_member: admin
 image: ""
 large_header: false
