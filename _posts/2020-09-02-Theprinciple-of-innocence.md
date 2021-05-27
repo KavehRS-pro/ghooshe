@@ -5,6 +5,7 @@ categories:
   - روزنامه شرق
   - گزارش
 author_staff_member: admin
+image: ""
 large_header: false
 ---
 
